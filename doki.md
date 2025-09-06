@@ -1,0 +1,1 @@
+pip install fastapi "uvicorn[standard]" sqlalchemy psycopg2-binary passlib[bcrypt] python-jose[cryptography] python-dotenv
